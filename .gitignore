@@ -2,8 +2,10 @@
 corpora/*
 !corpora/susanne/
 !corpora/emagyardemo/
+!corpora/bytest/
 !corpora/registry/susanne
 !corpora/registry/emagyardemo
+!corpora/registry/bytest
 
 # Compiled corpora
 corpora/**/indexed/*
